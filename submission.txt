@@ -1,1 +1,20 @@
-Submitted by:
+ML Assignment — Submission Details
+
+Group Members:
+  - Perera M.I.S        (IT22250124)
+  - Gamalath K.H        (IT22190598)
+  - Lokupathirage I.P   (IT22294852)
+  - Ranasinghe W.R.A.D.P.N (IT22085726)
+
+Dataset Link:
+    Dataset Name : Chronic Kidney Disease Dataset
+    Source       : Kaggle
+    Link         : https://www.kaggle.com/datasets/mansoordaku/ckdisease
+
+
+GitHub Repository Link:
+    https://github.com/isiniperera/ML-assignment.git
+    Note: Inside the main branch contains individual Jupyter Notebooks for all four algorithms with detailed commit history.
+
+YouTube Presentation Video Link:
+    https://youtu.be/2fy6c9rZhRI

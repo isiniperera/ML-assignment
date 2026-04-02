@@ -1,1 +1,7 @@
-Your Name
+
+| Name                   | Registration No | Email                  |
+| ---------------------- | --------------- | ---------------------- |
+| Perera M.I.S  (leader) | IT22250124      | it22250124@my.sliit.lk |
+| Gamalath K.H           | IT22190598      | it22190598@my.sliit.lk |
+| Ranasinghe W.R.A.D.P.N | IT22085726      | it22085726@my.sliit.lk |
+| Lokupathirage I.P      | IT22294852      | it22294852@my.sliit.lk |
